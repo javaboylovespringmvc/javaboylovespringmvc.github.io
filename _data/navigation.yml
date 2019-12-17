@@ -102,3 +102,7 @@ docs-zh:
     children:
       - title: 拦截器
         url: http://springmvc.javaboy.org/2019/1119/interceptor
+  - title: 下载本文电子书
+    children:
+      - title: 下载本文电子书
+        url: http://springmvc.javaboy.org/2019/1120/download
